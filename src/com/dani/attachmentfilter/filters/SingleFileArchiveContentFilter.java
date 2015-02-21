@@ -20,7 +20,6 @@ public class SingleFileArchiveContentFilter implements IContentFilter {
             BZip2CompressorInputStream.class,
             XZCompressorInputStream.class,
             ZCompressorInputStream.class,
-            ZCompressorInputStream.class,
             LZMACompressorInputStream.class,
             Pack200CompressorInputStream.class,
     };
