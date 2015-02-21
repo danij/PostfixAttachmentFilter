@@ -23,7 +23,7 @@ Password protected archives are not supported.
 
 Please attach the filter as described in http://www.postfix.org/FILTER_README.html
 
-## Depencencies
+## Dependencies
 
 - [JavaMail](http://www.oracle.com/technetwork/java/javamail/index.html)
 - [Commons IO](http://commons.apache.org/proper/commons-io/)
