@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: javax.mail.jar commons-compress-1.9.jar xz.jar commons-io-
+ 2.4.jar
+Main-Class: com.dani.attachmentfilter.Main
+
