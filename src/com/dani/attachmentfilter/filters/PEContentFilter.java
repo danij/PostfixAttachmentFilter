@@ -1,6 +1,7 @@
 package com.dani.attachmentfilter.filters;
 
 import com.dani.attachmentfilter.IContentFilter;
+import com.dani.attachmentfilter.ICoordinator;
 
 public class PEContentFilter implements IContentFilter {
 

@@ -1,6 +1,7 @@
 package com.dani.attachmentfilter.filters;
 
 import com.dani.attachmentfilter.IContentFilter;
+import com.dani.attachmentfilter.ICoordinator;
 import org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream;
 import org.apache.commons.compress.compressors.lzma.LZMACompressorInputStream;
 import org.apache.commons.compress.compressors.pack200.Pack200CompressorInputStream;

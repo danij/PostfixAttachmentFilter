@@ -1,6 +1,7 @@
 package com.dani.attachmentfilter.filters;
 
 import com.dani.attachmentfilter.IContentFilter;
+import com.dani.attachmentfilter.ICoordinator;
 import org.apache.commons.compress.archivers.ArchiveEntry;
 import org.apache.commons.compress.archivers.sevenz.SevenZFile;
 import org.apache.commons.compress.utils.IOUtils;
