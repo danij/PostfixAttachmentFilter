@@ -17,6 +17,8 @@ The filter also support the following types of archives:
 - lzma
 - Pack200
 
+Password protected archives are not supported.
+
 ## Installation
 
 Please attach the filter as described in http://www.postfix.org/FILTER_README.html
